@@ -1,0 +1,352 @@
+{
+    "ADBE": {
+        "chat_gpt": "Adobe uses AI to enhance its creative software suite, benefiting from AI-driven innovation.",
+        "claude": "Adobe has been leveraging AI to enhance its creative software offerings, and its Sensei AI platform could help it deliver more intelligent and automated solutions for content creation and management.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon leverages AI for its AWS services and e-commerce recommendations, benefiting from AI growth.",
+        "claude": "Amazon Web Services (AWS) offers a range of AI and machine learning services, and the company's leadership in cloud computing could help it capture a significant share of the growing AI market.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CRM": {
+        "chat_gpt": "Salesforce integrates AI into its CRM solutions, enhancing customer relationship management.",
+        "claude": "Salesforce has been integrating AI into its customer relationship management (CRM) software, and its Einstein AI platform could help it maintain its leadership position in the CRM market.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CRWD": {
+        "chat_gpt": "CrowdStrike uses AI for cybersecurity, benefiting from AI-driven threat detection.",
+        "claude": "CrowdStrike's AI-powered endpoint protection and threat intelligence platform could help organizations secure their AI workloads and data across diverse environments, from the cloud to the edge.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GOOGL": {
+        "chat_gpt": "Google is a leader in AI research and development, and benefits from advancements in AI technology.",
+        "claude": "Google has been investing heavily in AI research and development, and its vast data resources and computing power could give it a competitive edge in the AI market.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1760789649914531987",
+                "text": "\ud83d\udce3 JUST IN: $MSFT OpenAI\u2019s Sam Altman Revealed as Major Reddit Shareholder Ahead of IPO  $RDDT $META $GOOGL\n\nKey Details:\n\n\ud83d\udccd Sam Altman, OpenAI CEO, owns 8.7% of Reddit's stock, becoming its third-largest shareholder.\n\n\ud83d\udccd Reddit's IPO filing reveals financials, ownership, and a focus on AI as a growth area.\n\n\ud83d\udccd Total revenue for 2023 was $804 million, with $788.8 million from advertising.\n\n\ud83d\udccd AI's role in Reddit's future highlighted, with data being crucial for training large language models (LLMs).\n\n\ud83d\udccd Reddit inks a $203 million data licensing deal, rumored to be with Google for AI training.\n\n\ud83d\udccd CEO Steve Huffman's 2023 compensation totaled $193.2 million, largely in stock and options.\n\nContext/Background:\n\nReddit's IPO filing provides a comprehensive look at the company's financial health, key investors, and strategic focus areas, particularly its investment in AI and data as foundational elements for future growth.\n\nWhy This Matters:\n\n\ud83d\udc49 Sam Altman's significant stake in Reddit underscores the intertwining of AI technology leaders with major social platforms, reflecting the increasing importance of AI in shaping the future of digital communities.\n\nMarket Insights:\n\n\ud83d\udcca Reddit's emphasis on AI and its substantial data licensing agreement point to the strategic value of data and AI technologies in evolving content platforms and their business models.\n\nImpact & Recommendations:\n\n\ud83d\udccd Reddit's IPO and its focus on AI signal a pivotal moment for social platforms, highlighting the potential for AI-driven innovations in content creation and engagement.\n\n\ud83d\udccd Investors and tech enthusiasts should monitor Reddit's post-IPO performance and its advancements in AI applications.\n\n\ud83d\udd04 Stay updated on developments in Reddit's IPO journey and the broader implications for AI integration in social media platforms.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-02-22T22:12:21Z"
+            },
+            {
+                "url": "https://twitter.com/moneyballinvest/status/1762907842984472668",
+                "text": "$TSLA $AMZN $GOOG $GOOGL $MSFT $META $NVDA $AMD $PLTR $NOW $DDOG $MDB $SMCI $SOUN $ARM $LLY $PFE $NVO $PYPL $SPOT $SIRI $RDDT\n\nSam Altman is a prominent entrepreneur, investor, and technologist known for his contributions to the startup ecosystem and the tech industry. \n\nAltman gained recognition as the former president of Y Combinator (YC), one of the world's most prestigious startup accelerators. \n\nY Combinator has helped launch and nurture numerous successful startups, including Airbnb, Dropbox, Stripe, Reddit, and many others. Altman played a crucial role in shaping YC's programs, mentoring startups, and making strategic investments in early-stage companies during his tenure as president.\n\nAside from his role at Y Combinator, Altman is also a prolific angel investor, with investments in various successful startups across different sectors. Some of the companies he has invested in include:\n\n$ABNB\n$DBX \n$PINS \n$CART\n$ASAN\n\nOther high-profile investments include @OpenAI, @stripe, and @Reddit \n\nCheck out my analysis below on $RDDT's S-1 filing, as the company gears up to go public.\n\nLots of intersting finds while reading the doc \ud83d\udc47",
+                "username": "moneyballinvest",
+                "user_url": "https://twitter.com/moneyballinvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1762906601306853376/GLCpJd9s_normal.png",
+                "date": "2024-02-28T18:29:17Z"
+            }
+        ],
+        "experts": []
+    },
+    "IBM": {
+        "chat_gpt": "IBM's Watson AI platform is a key player in the AI industry, benefiting from AI advancements.",
+        "claude": "IBM has been focusing on AI and cloud computing as key growth areas, and its Watson AI platform and industry-specific solutions could help it gain traction in the enterprise AI market.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "INTC": {
+        "chat_gpt": "Intel provides processors for AI applications, benefiting from increased AI hardware demand.",
+        "claude": "Intel has been investing in AI hardware and software, and its processors and AI accelerators could benefit from increased demand for edge computing and IoT applications.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft has a significant partnership with OpenAI, integrating AI into its products and services.",
+        "claude": "Microsoft has a close partnership with OpenAI, integrating AI capabilities into its products and services, which could lead to significant growth opportunities as AI adoption accelerates.",
+        "search_articles": [
+            {
+                "url": "https://www.businessinsider.com/sam-altman-investment-portfolio-2-8-billion-openai-jpmorgan-chase-2024-6",
+                "title": "Sam Altman Has at Least $2.8 Billion in Investments: Report",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.washingtonpost.com/technology/2023/12/23/open-ai-sam-altman-investments-companies/",
+                "title": "In OpenAI CEO Sam Altman's empire, these are some of ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1760789649914531987",
+                "text": "\ud83d\udce3 JUST IN: $MSFT OpenAI\u2019s Sam Altman Revealed as Major Reddit Shareholder Ahead of IPO  $RDDT $META $GOOGL\n\nKey Details:\n\n\ud83d\udccd Sam Altman, OpenAI CEO, owns 8.7% of Reddit's stock, becoming its third-largest shareholder.\n\n\ud83d\udccd Reddit's IPO filing reveals financials, ownership, and a focus on AI as a growth area.\n\n\ud83d\udccd Total revenue for 2023 was $804 million, with $788.8 million from advertising.\n\n\ud83d\udccd AI's role in Reddit's future highlighted, with data being crucial for training large language models (LLMs).\n\n\ud83d\udccd Reddit inks a $203 million data licensing deal, rumored to be with Google for AI training.\n\n\ud83d\udccd CEO Steve Huffman's 2023 compensation totaled $193.2 million, largely in stock and options.\n\nContext/Background:\n\nReddit's IPO filing provides a comprehensive look at the company's financial health, key investors, and strategic focus areas, particularly its investment in AI and data as foundational elements for future growth.\n\nWhy This Matters:\n\n\ud83d\udc49 Sam Altman's significant stake in Reddit underscores the intertwining of AI technology leaders with major social platforms, reflecting the increasing importance of AI in shaping the future of digital communities.\n\nMarket Insights:\n\n\ud83d\udcca Reddit's emphasis on AI and its substantial data licensing agreement point to the strategic value of data and AI technologies in evolving content platforms and their business models.\n\nImpact & Recommendations:\n\n\ud83d\udccd Reddit's IPO and its focus on AI signal a pivotal moment for social platforms, highlighting the potential for AI-driven innovations in content creation and engagement.\n\n\ud83d\udccd Investors and tech enthusiasts should monitor Reddit's post-IPO performance and its advancements in AI applications.\n\n\ud83d\udd04 Stay updated on developments in Reddit's IPO journey and the broader implications for AI integration in social media platforms.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-02-22T22:12:21Z"
+            },
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1770936620327350561",
+                "text": "\ud83d\udce3 JUST IN: $MSFT Sam Altman's $RDDT Reddit Stake Skyrockets to $613M After NYSE Debut \n\n\ud83d\udc49 Key Highlights:\n\n\ud83d\udccd Sam Altman's stake in Reddit jumps to over $613 million after NYSE debut.\n\n\ud83d\udccd Reddit shares surged 48% to close at $50.44.\n\n\ud83d\udccd Altman controls 7.6% of Reddit's outstanding shares, making him one of the top shareholders.\n\n\ud83d\udccd Lockup period prevents insiders from selling shares for six months.\n\n\ud83d\udccd Altman's investments in Reddit date back to a $50 million Series B in 2014.\n\n\ud83d\udccd Recent investments in 2021 have yet to surpass Reddit's private market peak.\n\n\ud83d\udccd Despite controversies at OpenAI, Altman claims to work without equity, motivated by passion.\n\n\ud83d\udc49 Context/Background:\n\n\ud83d\udccd Altman's significant return on investment in Reddit contrasts with his non-equity stance at OpenAI, underscoring his diverse impact in the tech world.\n\n\ud83d\udc49 Why This Matters:\n\n\ud83d\udccd The successful IPO highlights the enduring value of strategic investments in tech and the potential for significant returns.\n\n\ud83d\udccd Altman's role in Reddit's growth and his unique position in the tech industry spotlight innovative leadership and investment approaches.\n\n\ud83d\udc49 Market Insights:\n\n\ud83d\udccd Reddit's IPO and Altman's substantial stake underline the continued influence of tech veterans in guiding successful startups to public markets.\n\n\ud83d\udc49 Expert Statement:\n\n\ud83d\udde8\ufe0f Altman on his role at OpenAI: \"I'm doing this because I love it,\" emphasizing his commitment beyond financial gain.\n\n\ud83d\udc49 Impact & Recommendations:\n\n\ud83d\udccd Investors and tech enthusiasts should observe Altman's moves for insights into future tech trends and investment opportunities.\n\n\ud83d\udccd Reddit's performance post-IPO may serve as a bellwether for tech startups considering public offerings.\n\n\ud83d\udd04 Follow @AIStockSavvy for real-time updates. Don\u2019t forget to like, retweet, and turn on notifications for unparalleled insights.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-03-21T22:12:47Z"
+            },
+            {
+                "url": "https://twitter.com/moneyballinvest/status/1762907842984472668",
+                "text": "$TSLA $AMZN $GOOG $GOOGL $MSFT $META $NVDA $AMD $PLTR $NOW $DDOG $MDB $SMCI $SOUN $ARM $LLY $PFE $NVO $PYPL $SPOT $SIRI $RDDT\n\nSam Altman is a prominent entrepreneur, investor, and technologist known for his contributions to the startup ecosystem and the tech industry. \n\nAltman gained recognition as the former president of Y Combinator (YC), one of the world's most prestigious startup accelerators. \n\nY Combinator has helped launch and nurture numerous successful startups, including Airbnb, Dropbox, Stripe, Reddit, and many others. Altman played a crucial role in shaping YC's programs, mentoring startups, and making strategic investments in early-stage companies during his tenure as president.\n\nAside from his role at Y Combinator, Altman is also a prolific angel investor, with investments in various successful startups across different sectors. Some of the companies he has invested in include:\n\n$ABNB\n$DBX \n$PINS \n$CART\n$ASAN\n\nOther high-profile investments include @OpenAI, @stripe, and @Reddit \n\nCheck out my analysis below on $RDDT's S-1 filing, as the company gears up to go public.\n\nLots of intersting finds while reading the doc \ud83d\udc47",
+                "username": "moneyballinvest",
+                "user_url": "https://twitter.com/moneyballinvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1762906601306853376/GLCpJd9s_normal.png",
+                "date": "2024-02-28T18:29:17Z"
+            }
+        ],
+        "experts": []
+    },
+    "NVDA": {
+        "chat_gpt": "NVIDIA provides the GPUs essential for AI computing, benefiting from increased AI adoption.",
+        "claude": "NVIDIA's GPUs are widely used for AI training and inference, and the company is well-positioned to benefit from increased demand for AI hardware as more companies adopt AI technologies.",
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/moneyballinvest/status/1762907842984472668",
+                "text": "$TSLA $AMZN $GOOG $GOOGL $MSFT $META $NVDA $AMD $PLTR $NOW $DDOG $MDB $SMCI $SOUN $ARM $LLY $PFE $NVO $PYPL $SPOT $SIRI $RDDT\n\nSam Altman is a prominent entrepreneur, investor, and technologist known for his contributions to the startup ecosystem and the tech industry. \n\nAltman gained recognition as the former president of Y Combinator (YC), one of the world's most prestigious startup accelerators. \n\nY Combinator has helped launch and nurture numerous successful startups, including Airbnb, Dropbox, Stripe, Reddit, and many others. Altman played a crucial role in shaping YC's programs, mentoring startups, and making strategic investments in early-stage companies during his tenure as president.\n\nAside from his role at Y Combinator, Altman is also a prolific angel investor, with investments in various successful startups across different sectors. Some of the companies he has invested in include:\n\n$ABNB\n$DBX \n$PINS \n$CART\n$ASAN\n\nOther high-profile investments include @OpenAI, @stripe, and @Reddit \n\nCheck out my analysis below on $RDDT's S-1 filing, as the company gears up to go public.\n\nLots of intersting finds while reading the doc \ud83d\udc47",
+                "username": "moneyballinvest",
+                "user_url": "https://twitter.com/moneyballinvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1762906601306853376/GLCpJd9s_normal.png",
+                "date": "2024-02-28T18:29:17Z"
+            },
+            {
+                "url": "https://twitter.com/WAlFUDEZ/status/1777097016600141960",
+                "text": "$ALCC is a sleeping giant. Accumulation phase right now. Wait till the public gets hold of Sam Altman\u2019s involvement.\n\n$DJT $MSFT $RDDT $NVDA $RILY $PARA",
+                "username": "WAlFUDEZ",
+                "user_url": "https://twitter.com/WAlFUDEZ",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1792698020016115712/6PuIRmAo_normal.jpg",
+                "date": "2024-04-07T22:12:00Z"
+            }
+        ],
+        "experts": []
+    },
+    "ORCL": {
+        "chat_gpt": "Oracle integrates AI into its cloud services, benefiting from AI-driven cloud adoption.",
+        "claude": "Oracle has been expanding its AI capabilities through acquisitions and partnerships, and its enterprise software and cloud offerings could benefit from increased AI adoption in businesses.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "PLTR": {
+        "chat_gpt": "Palantir uses AI for data analytics and security, benefiting from AI-driven insights.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SHOP": {
+        "chat_gpt": "Shopify leverages AI for e-commerce solutions, benefiting from AI-driven enhancements.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SNOW": {
+        "chat_gpt": "Snowflake uses AI for data warehousing and analytics, benefiting from AI-driven data solutions.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SQ": {
+        "chat_gpt": "Square uses AI for financial services and fraud detection, benefiting from AI advancements.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": "Tesla uses AI for its autonomous driving technology, which aligns with AI advancements.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.wsj.com/tech/ai/openai-sam-altman-investments-004fc785",
+                "title": "The Opaque Investment Empire Making OpenAI's Sam Altman ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "TWLO": {
+        "chat_gpt": "Twilio uses AI for communication APIs, benefiting from AI-driven improvements.",
+        "claude": "Twilio's cloud communications platform is used by many developers to build AI-powered chatbots and voice assistants, and the company's investments in natural language processing and conversational AI could help it capture more of this growing market.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ZM": {
+        "chat_gpt": "Zoom uses AI to enhance video conferencing, benefiting from AI-driven communication tools.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "META": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/AIStockSavvy/status/1760789649914531987",
+                "text": "\ud83d\udce3 JUST IN: $MSFT OpenAI\u2019s Sam Altman Revealed as Major Reddit Shareholder Ahead of IPO  $RDDT $META $GOOGL\n\nKey Details:\n\n\ud83d\udccd Sam Altman, OpenAI CEO, owns 8.7% of Reddit's stock, becoming its third-largest shareholder.\n\n\ud83d\udccd Reddit's IPO filing reveals financials, ownership, and a focus on AI as a growth area.\n\n\ud83d\udccd Total revenue for 2023 was $804 million, with $788.8 million from advertising.\n\n\ud83d\udccd AI's role in Reddit's future highlighted, with data being crucial for training large language models (LLMs).\n\n\ud83d\udccd Reddit inks a $203 million data licensing deal, rumored to be with Google for AI training.\n\n\ud83d\udccd CEO Steve Huffman's 2023 compensation totaled $193.2 million, largely in stock and options.\n\nContext/Background:\n\nReddit's IPO filing provides a comprehensive look at the company's financial health, key investors, and strategic focus areas, particularly its investment in AI and data as foundational elements for future growth.\n\nWhy This Matters:\n\n\ud83d\udc49 Sam Altman's significant stake in Reddit underscores the intertwining of AI technology leaders with major social platforms, reflecting the increasing importance of AI in shaping the future of digital communities.\n\nMarket Insights:\n\n\ud83d\udcca Reddit's emphasis on AI and its substantial data licensing agreement point to the strategic value of data and AI technologies in evolving content platforms and their business models.\n\nImpact & Recommendations:\n\n\ud83d\udccd Reddit's IPO and its focus on AI signal a pivotal moment for social platforms, highlighting the potential for AI-driven innovations in content creation and engagement.\n\n\ud83d\udccd Investors and tech enthusiasts should monitor Reddit's post-IPO performance and its advancements in AI applications.\n\n\ud83d\udd04 Stay updated on developments in Reddit's IPO journey and the broader implications for AI integration in social media platforms.",
+                "username": "AIStockSavvy",
+                "user_url": "https://twitter.com/AIStockSavvy",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1687622783423950848/-cfzz67M_normal.jpg",
+                "date": "2024-02-22T22:12:21Z"
+            },
+            {
+                "url": "https://twitter.com/moneyballinvest/status/1762907842984472668",
+                "text": "$TSLA $AMZN $GOOG $GOOGL $MSFT $META $NVDA $AMD $PLTR $NOW $DDOG $MDB $SMCI $SOUN $ARM $LLY $PFE $NVO $PYPL $SPOT $SIRI $RDDT\n\nSam Altman is a prominent entrepreneur, investor, and technologist known for his contributions to the startup ecosystem and the tech industry. \n\nAltman gained recognition as the former president of Y Combinator (YC), one of the world's most prestigious startup accelerators. \n\nY Combinator has helped launch and nurture numerous successful startups, including Airbnb, Dropbox, Stripe, Reddit, and many others. Altman played a crucial role in shaping YC's programs, mentoring startups, and making strategic investments in early-stage companies during his tenure as president.\n\nAside from his role at Y Combinator, Altman is also a prolific angel investor, with investments in various successful startups across different sectors. Some of the companies he has invested in include:\n\n$ABNB\n$DBX \n$PINS \n$CART\n$ASAN\n\nOther high-profile investments include @OpenAI, @stripe, and @Reddit \n\nCheck out my analysis below on $RDDT's S-1 filing, as the company gears up to go public.\n\nLots of intersting finds while reading the doc \ud83d\udc47",
+                "username": "moneyballinvest",
+                "user_url": "https://twitter.com/moneyballinvest",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1762906601306853376/GLCpJd9s_normal.png",
+                "date": "2024-02-28T18:29:17Z"
+            }
+        ],
+        "experts": []
+    },
+    "RDDT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/StockMKTNewz/status/1760786187441045844",
+                "text": "OPENAI CEO SAM ALTMAN IS LISTED AS THIRD-LARGEST REDDIT $RDDT SHAREHOLDER - Bloomberg",
+                "username": "StockMKTNewz",
+                "user_url": "https://twitter.com/StockMKTNewz",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1366208150211350534/GfAPwpyD_normal.jpg",
+                "date": "2024-02-22T21:58:35Z"
+            },
+            {
+                "url": "https://twitter.com/stocktalkweekly/status/1770792798180008412",
+                "text": "REDDIT $RDDT will IPO today, expected to open at $34/share, implying a roughly $6.4 billion valuation",
+                "username": "stocktalkweekly",
+                "user_url": "https://twitter.com/stocktalkweekly",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1653312890756055040/zgNUIMtZ_normal.jpg",
+                "date": "2024-03-21T12:41:17Z"
+            },
+            {
+                "url": "https://twitter.com/SpecialSitsNews/status/1761548182071259492",
+                "text": "OpenAI's Sam Altman has invested at least $60 million in $RDDT Reddit shares and controls 9.2% of voting power at the online messaging board company.\n\nAltman said in 2014 that he had been a daily user of the site for nine years when he invested.\n\nHe sat on the company's board in 2021 but no longer does. Now Reddit sees OpenAI's ChatGPT as competition.",
+                "username": "SpecialSitsNews",
+                "user_url": "https://twitter.com/SpecialSitsNews",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1610807772836233218/HXHJ7Ljx_normal.jpg",
+                "date": "2024-02-25T00:26:29Z"
+            }
+        ],
+        "experts": []
+    },
+    "ASAN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.getpin.xyz/post/sam-altman-angel-investments",
+                "title": "Sam Altman's most successful angel investments",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://observer.com/2023/05/openai-sam-altman-startup-portfolio/",
+                "title": "Sam Altman's Startup Portfolio: 12 Companies Owned By the ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "HLN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://observer.com/2023/05/openai-sam-altman-startup-portfolio/",
+                "title": "Sam Altman's Startup Portfolio: 12 Companies Owned By the ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "INFY": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "JPM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.businessinsider.com/sam-altman-investment-portfolio-2-8-billion-openai-jpmorgan-chase-2024-6",
+                "title": "Sam Altman Has at Least $2.8 Billion in Investments: Report",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "OKLO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.navigatevc.com/insight/sam-altmans-investment-web-where-the-openai-ceo-is-investing-in-ai-biotech-energy-and-more/",
+                "title": "Sam Altman's Investment Web: Where the OpenAI CEO ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AMD": {
+        "chat_gpt": null,
+        "claude": "AMD's CPUs and GPUs are gaining market share in the data center and AI markets, and the company's partnerships with cloud providers and AI startups could help it capture more of the growing AI opportunity.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NOW": {
+        "chat_gpt": null,
+        "claude": "ServiceNow's workflow automation and AI-powered IT service management solutions could help organizations streamline their operations and improve efficiency as they adopt more AI technologies.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "PANW": {
+        "chat_gpt": null,
+        "claude": "Palo Alto Networks' cybersecurity solutions are increasingly leveraging AI and machine learning to detect and prevent threats, and the company's focus on cloud security could help it benefit from the growth of AI workloads in the cloud.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "QCOM": {
+        "chat_gpt": null,
+        "claude": "Qualcomm's mobile processors and 5G modems are powering many of the devices that will enable edge AI applications, and the company's investments in AI software and platforms could help it tap into new growth opportunities.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TEAM": {
+        "chat_gpt": null,
+        "claude": "Atlassian's collaboration and project management tools are used by many software development teams, and the company's investments in AI and automation could help it deliver more intelligent and efficient solutions for agile development and DevOps.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    }
+}
